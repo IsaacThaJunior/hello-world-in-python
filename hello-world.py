@@ -22,3 +22,21 @@
 
 # new_list.sort()
 # print(new_list)
+
+# Dictionaries in Python
+# Dictionaries are key value pairs and are like objects in JS
+
+# my_dict = {'name': 'Jose', 'age': 30, 'country': 'Mexico'}
+
+# print(my_dict['age'])
+
+# fruits = {
+#     'apple': 'red',
+#     'banana': 'yellow',
+#     'orange': 'orange',
+#     'key': 'value',
+#     'money': 28.22
+
+# }
+
+# print(fruits)
